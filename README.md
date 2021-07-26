@@ -1,3 +1,5 @@
+Non interactive Hulu app using TailwindCSS, next.js, and React with The Movie Database API to fetch movie information as a proof of concept.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
