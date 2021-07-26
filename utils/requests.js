@@ -1,5 +1,6 @@
 const API_KEY = process.env.REACT_APP_API_KEY;
 
+
 const exportedGenres = {
     fetchTrending: {
         title: "Trending",
@@ -7,7 +8,7 @@ const exportedGenres = {
     },
     fetchTopRated: {
         title: "Top Rated",
-        url: `/move/top_rated?api_key=${API_KEY}&language=en-US`
+        url: `movie/top_rated?api_key=${API_KEY}&language=en-US`
     },
     fetchAction: {
         title: "Action",
